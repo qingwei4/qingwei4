@@ -1,5 +1,5 @@
 ### Hi there 👋
-CCU CSIE\
+NYCU CSIE\
 CTF pwner, beginner in browser exploitation
 
 ![Terry1324's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingwei4&show_icons=true&theme=radical)
