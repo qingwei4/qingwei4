@@ -1,8 +1,6 @@
 ### Hi there 👋
 NYCU CSIE\
-CTF pwner, beginner in browser exploitation
-
-![Terry1324's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingwei4&show_icons=true&theme=radical)
+CTF pwner, Researching V8 JIT
 
 <!--
 **qingwei4/qingwei4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
